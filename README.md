@@ -29,7 +29,7 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 
-Примеры.
+## Примеры.
 Необходимо создать учетную запись(иначе, кроме просмотра некоторых категорий - ничего не получится)
 POST http://127.0.0.1:8000/auth/users/
 Content-Type: application/json
